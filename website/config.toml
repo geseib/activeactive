@@ -1,17 +1,17 @@
-baseURL = "https://foo.awsworkshops.io"
+baseURL = "https://helloworld.aworkshop.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "AWS foo Workshop"
-theme = "material"
+title = "Hello World Workshop"
+theme = "learn"
 uglyurls = true
 sectionPagesMenu = "main"
 pygmentsCodeFences = true
 pygmentsStyle = "monokai"
 
 [params]
-editURL = "https://github.com/samdengler/aws-workshop-sample/edit/master/website/content/"
+themeVariant = "mine"
 showVisitedLinks = false
-description = "AWS foo Workshop"
+description = "Hello World Workshop"
 disableSearch = true
 disableAssetsBusting = true
 disableLanguageSwitchingButton = true
